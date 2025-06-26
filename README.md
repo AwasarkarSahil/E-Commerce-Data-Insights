@@ -1,5 +1,5 @@
-# E-Commerce-Data-Insights
-# 🛒 E-Commerce Data Insights Dashboard
+
+# 🛒 E-Commerce Data Insights 
 
 This project explores an E-Commerce dataset to generate valuable business insights through data analysis and visualizations. It includes identifying top-selling products, peak purchase hours, product category performance, and customer retention.
 
